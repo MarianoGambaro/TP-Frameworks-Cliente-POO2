@@ -20,7 +20,7 @@
             <artifactId>framework</artifactId>
             <version>1.0</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/lib/TP-Frameworks-POO2.jar</systemPath>
+            <systemPath>${project.basedir}/lib/framework-v1.1.jar</systemPath>
         </dependency>
     </dependencies>
 
